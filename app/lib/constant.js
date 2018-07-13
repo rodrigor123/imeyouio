@@ -1,38 +1,6 @@
 'use strict';
 
 module.exports = {
-  menuData: {
-    CallMenu: {
-      id: 'CallMenu',
-      str: 'Place Call',
-      extra: '',
-      ico: 'phone'
-    },
-    BuyCredits: {
-      id: 'BuyCredits',
-      str: 'Buy Credits',
-      extra: 'minutes',
-      ico: 'basket'
-    },
-    CallHistory: {
-      id: 'CallHistory',
-      str: 'Call History',
-      extra: '',
-      ico: 'microphone'
-    },
-    Settings: {
-      id: 'Settings',
-      str: 'Settings',
-      extra: '',
-      ico: 'settings'
-    },
-    Support: {
-      id: 'Support',
-      str: 'Support',
-      extra: '',
-      ico: 'question'
-    },
-  },
 
   creditData: {
     twentyFive: {
